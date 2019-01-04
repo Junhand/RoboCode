@@ -1,0 +1,7 @@
+#Robocode robot team
+#Tue Dec 18 12:29:18 JST 2018
+team.members=sample.Walls,sample.Walls,sample.Walls
+team.author.name=Mathew Nelson and Flemming N. Larsen
+robocode.version=1.9.3.3
+team.description=\                            A sample robot\n\n            Moves around the outer edge with the gun facing in
+team.version=h
